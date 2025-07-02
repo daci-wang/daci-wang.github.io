@@ -14,4 +14,5 @@ My research interest lies in diffusion models, and science of AI in general.
 - BSc in Pure Mathematics & Computer Science, HKUST (Ongoing)
 - Exchange, UWaterloo, Spring 2025
 
+Check out my CV for more information~
 
